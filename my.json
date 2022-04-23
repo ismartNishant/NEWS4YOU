@@ -1,0 +1,268 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Zoe Zoe",
+    "title": "Alec Baldwin says he \"didn't pull the trigger\" in fatal \"Rust\" movie set shooting - CBS News",
+    "description": "The actor said the shooting was the worst thing that has ever happened to him.",
+    "url": "https://www.cbsnews.com/news/alec-baldwin-rust-shooting-trigger/",
+    "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/12/01/64e00d7e-5a67-4319-8d90-a29c62156e53/thumbnail/1200x630/ca9d19392c3aa6e4fb0bef1e9a043419/gettyimages-1236259590.jpg",
+    "publishedAt": "2021-12-02T12:28:29Z",
+    "content": "Alec Baldwin says he never pulled the trigger on a prop firearm that discharged on the \"Rust\" movie set. The October 21 shooting in Santa Fe killed cinematographer Halyna Hutchins and wounded directo… [+1814 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Aya Elamroussi, Adrienne Broaddus and Shimon Prokupecz, CNN",
+    "title": "Investigators reveal concerns about behavior of Michigan high school shooting suspect leading up to the tragedy - CNN",
+    "description": "The timeline of events leading up to a deadly high school shooting Tuesday in Michigan reveals there were concerns about the teen suspect's behavior before the tragedy that left four dead and seven injured.",
+    "url": "https://www.cnn.com/2021/12/02/us/michigan-oxford-high-school-shooting-thursday/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211201154644-03-oxford-shooting-memorial-120121-super-tease.jpg",
+    "publishedAt": "2021-12-02T11:44:00Z",
+    "content": "Oxford, Michigan (CNN)The timeline of events leading up to a deadly high school shooting Tuesday in Michigan reveals there were concerns about the teen suspect's behavior before the tragedy that left… [+6801 chars]"
+    },
+    {
+    "source": {
+    "id": "nbc-news",
+    "name": "NBC News"
+    },
+    "author": "Reuters, Abigail Williams, Matthew Bodner, Dan De Luce, Alexander Smith",
+    "title": "Russian troops mass on Ukraine's border. West worries this isn't like the last time. - NBC News",
+    "description": "Russian troops massing near the Ukrainian border are triggering jitters across Europe and in the United States that war might be imminent.",
+    "url": "https://www.nbcnews.com/news/world/russian-troops-mass-ukraines-border-west-worries-isnt-last-time-rcna7203",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211201-russia-ukraine-mb-1218-c55825.jpg",
+    "publishedAt": "2021-12-02T11:40:04Z",
+    "content": "Fewpeople, if anyone,outside Putins inner circle know what hes planning. Analysts say this could be another attempt to gain leverage over Ukraine, and a warning to the West not to meddle in the Kreml… [+3346 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Tom Warren",
+    "title": "Microsoft’s new Windows prompts try to stop people downloading Chrome - The Verge",
+    "description": "Microsoft is using new prompts in Edge to try and stop people from downloading Chrome. The prompts appear on the Chrome download page.",
+    "url": "https://www.theverge.com/2021/12/2/22813733/microsoft-windows-edge-download-chrome-prompts",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/MKneAklez_u_lyHN4PA26T1mSuo=/0x101:1400x834/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23057685/chromedownloadprompt.jpg",
+    "publishedAt": "2021-12-02T11:38:41Z",
+    "content": "New prompts in Edge steer people away from Chrome\r\nMicrosofts new Edge prompt.\r\nMicrosoft has never been a fan of Windows users downloading Chrome instead of using Edge, but the company has now stepp… [+1787 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": "",
+    "title": "Holiday shipping deadlines are fast approaching. Here's what to know - NPR",
+    "description": "To all those holiday present procrastinators out there (you know who you are): Be sure to ship that holiday gift sooner rather than later to get those presents to their destination before December 25.",
+    "url": "https://www.npr.org/2021/12/02/1060605768/shipping-deadlines-for-christmas-usps-ups-fedex",
+    "urlToImage": "https://media.npr.org/assets/img/2021/12/01/HolidayShipping_wide-f554e3b25feb421a3c020bfb4d15cd96eed9221b.jpg?s=1400",
+    "publishedAt": "2021-12-02T11:01:01Z",
+    "content": "Parcels jam a conveyor belt at the United States Postal Service sorting and processing facility in Boston.\r\nCharles Krupa/AP\r\nIt's the most wonderful time of the year, and while the holiday season ma… [+3065 chars]"
+    },
+    {
+    "source": {
+    "id": "the-hill",
+    "name": "The Hill"
+    },
+    "author": "Alexander Bolton and Mike Lillis",
+    "title": "GOP fears boomerang as threat of government shutdown grows | TheHill - The Hill",
+    "description": "The prospect of a government shutdown grew on Wednesday as a small group of conservative Republic...",
+    "url": "https://thehill.com/homenews/senate/583937-gop-fears-boomerang-as-threat-of-government-shutdown-grows",
+    "urlToImage": "https://thehill.com/sites/default/files/leemike_marshallroger_120121gn_lead.jpg",
+    "publishedAt": "2021-12-02T11:00:31Z",
+    "content": "The prospect of a government shutdown grew on Wednesday as a small group of conservative Republicans demanded a vote to defund President BidenJoe BidenBiden and Harris host 'family' Hanukkah celebrat… [+7997 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "GSK says tests indicate antibody drug works against Omicron - Reuters",
+    "description": "Laboratory analysis of the antibody-based COVID-19 therapy GlaxoSmithKline <a href=\"https://www.reuters.com/companies/GSK.L\" target=\"_blank\">(GSK.L)</a> (GSK) is developing with U.S. partner Vir <a href=\"https://www.reuters.com/companies/VIR.O\" target=\"_blank…",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-says-tests-show-antibody-drug-works-against-omicron-2021-12-02/",
+    "urlToImage": "https://www.reuters.com/resizer/HTrK_Q7GqK9LfSdsdPdacx5nIWs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BXDM5ABZZJK3NL6WZFIGMCGCGM.jpg",
+    "publishedAt": "2021-12-02T10:41:00Z",
+    "content": "Dec 2 (Reuters) - Laboratory analysis of the antibody-based COVID-19 therapy GlaxoSmithKline (GSK.L) (GSK) is developing with U.S. partner Vir (VIR.O) has indicated the drug is effective against the … [+1873 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Steven Nelson",
+    "title": "Biden picks less strict COVID travel rules than feared, makes insurance cover rapid tests - New York Post",
+    "description": "President Biden on Thursday will announce a COVID-19 “winter plan” that imposes new international travel rules and mandates that health insurance companies pay for rapid tests.",
+    "url": "https://nypost.com/2021/12/02/biden-heats-up-covid-travel-rules-makes-insurance-cover-testing/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/biden-covid-travel-index.jpg?quality=90&strip=all&w=1024",
+    "publishedAt": "2021-12-02T10:35:00Z",
+    "content": "President Biden on Thursday will announce a COVID-19 “winter plan” that imposes new, but less strict than feared, international travel rules and mandates that health insurance companies pay for at-ho… [+3022 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "NASA Spacewalk to Replace Space Station Antenna - NASA",
+    "description": "Watch NASA astronauts Kayla Barron and Thomas Marshburn venture outside the International Space Station on Dec. 2 to replace a faulty antenna system. The ant...",
+    "url": "https://www.youtube.com/watch?v=ScAtmwgIXwU",
+    "urlToImage": "https://i.ytimg.com/vi/ScAtmwgIXwU/maxresdefault_live.jpg",
+    "publishedAt": "2021-12-02T10:30:33Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Japan drops ban on inbound flight bookings after confusion - Reuters",
+    "description": "Japan on Thursday reversed a ban on inbound flight reservations, revealing confusion between government agencies and the public over Prime Minister Fumio Kishida's strategy to keep out the Omicron coronavirus variant.",
+    "url": "https://www.reuters.com/world/china/japan-drops-blanket-ban-flight-reservations-after-confusion-2021-12-02/",
+    "urlToImage": "https://www.reuters.com/resizer/lgoq-1n4fM76e-DKUUhRJ__yYpg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JEYJC64AVRIZBDZQR3MM65S7TM.jpg",
+    "publishedAt": "2021-12-02T09:58:00Z",
+    "content": "TOKYO, Dec 2 (Reuters) - Japan on Thursday reversed a ban on inbound flight reservations, revealing confusion between government agencies and the public over Prime Minister Fumio Kishida's strategy t… [+2193 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Elizabeth Weise",
+    "title": "How scientists in San Francisco found the first case of the omicron COVID-19 variant in the US - USA TODAY",
+    "description": "The first case of the omicron variant of COVID-19 in the United States was confirmed after an all-night session by scientists in San Francisco.",
+    "url": "https://www.usatoday.com/story/news/health/2021/12/01/how-first-us-case-omicron-covid-19-variant-found/8827536002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/01/USAT/6ec27a7b-bf90-463a-8f59-10f32c994c37-UCSF_20200326_Chiu_Charles_126.jpg?crop=6719,3780,x0,y341&width=3200&height=1680&fit=bounds",
+    "publishedAt": "2021-12-02T09:56:15Z",
+    "content": "The California and San Francisco Departments of Public Health have confirmed a recent case of COVID-19 caused by omicron.\r\nUSA TODAY\r\nSAN FRANCISCO The first case of the coronavirus omicron variant i… [+3552 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Steve Goldstein",
+    "title": "Dow futures swing higher as markets grapple with omicron and interest-rate uncertainty - MarketWatch",
+    "description": "U.S. stock futures pointed to a stronger start Thursday, in what's emerging as an increasingly volatile market.",
+    "url": "https://www.marketwatch.com/story/dow-futures-swing-higher-as-markets-grapple-with-omicron-and-interest-rate-uncertainty-11638438872",
+    "urlToImage": "https://images.mktw.net/im-444708/social",
+    "publishedAt": "2021-12-02T09:54:00Z",
+    "content": "U.S. stock futures pointed to a stronger start Thursday, in whats becoming an increasingly volatile market due to uncertainty over the spread of coronavirus and the direction of interest rates.\r\nWhat… [+2111 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": "",
+    "title": "Philanthropist Jacqueline Avant, wife of music exec. Clarence Avant, is fatally shot - NPR",
+    "description": "Police are investigating the shooting of Jacqueline Avant, who was found shot in her Beverly Hills home early Wednesday. \"I don't think it's a random attack\", said police chief Mark Stainbrook.",
+    "url": "https://www.npr.org/2021/12/02/1060774063/philanthropist-jacqueline-avant-wife-of-music-exec-clarence-avant-is-fatally-sho",
+    "urlToImage": "https://media.npr.org/assets/img/2021/12/02/ap21335590798420_wide-ae6d79090bfbb9f7747503e4cf86818397e73610.jpg?s=1400",
+    "publishedAt": "2021-12-02T08:49:00Z",
+    "content": "Jacqueline Avant, left, and Clarence Avant appear at the 11th Annual AAFCA Awards in Los Angeles on Jan. 22, 2020. Jacqueline Avant was fatally shot early Wednesday, Dec. 1, 2021, in Beverly Hills, C… [+4508 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Pete Thamel",
+    "title": "Why Notre Dame's Marcus Freeman can become 'the next great coach in college football' - Yahoo Sports",
+    "description": "It'd be too simplistic to say the players wanted Freeman, and that’s why he became the hire. But the quality of relationships he built in the program in less...",
+    "url": "https://sports.yahoo.com/why-notre-dames-marcus-freeman-can-become-the-next-great-coach-in-college-football-064924603.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LPp9VIuswpz.XpykANzYog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-11/94a15a90-5334-11ec-92f7-a956dd52b03d",
+    "publishedAt": "2021-12-02T06:49:00Z",
+    "content": "After retiring from the NFL in 2010 because of a heart issue, Marcus Freeman returned to his alma mater, Ohio State, to pursue a career in athletics. He was unsure whether to work in administration o… [+7265 chars]"
+    },
+    {
+    "source": {
+    "id": "nbc-news",
+    "name": "NBC News"
+    },
+    "author": "Phil Helsel",
+    "title": "Fingerprint leads Florida police to arrest man in 1983 cold case killing - NBC News",
+    "description": "A man was arrested Monday in the death of a woman in Delray Beach, Florida, 38 years ago after a fingerprint was identified, officials said.",
+    "url": "https://www.nbcnews.com/news/us-news/fingerprint-leads-florida-police-arrest-man-1983-cold-case-killing-rcna7349",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211201-carla-lowe-snip-delray-police-ac-1114p-df2004.jpg",
+    "publishedAt": "2021-12-02T06:42:00Z",
+    "content": "A man was arrested Monday in the death of a woman in Delray Beach, Florida, 38 years ago after a fingerprint was identified, officials said. \r\nRalph Williams was arrested in the killing of 21-year-ol… [+1452 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jabari Young",
+    "title": "MLB lockout begins as owners and players remain at an impasse. Here's where things stand - CNBC",
+    "description": "The stoppage is the ninth in MLB history and the first since a player strike in 1994. But with another lockout in place, a $10 billion industry is now frozen.",
+    "url": "https://www.cnbc.com/2021/12/02/mlb-lockout-set-to-begin-as-owners-and-players-remain-at-an-impasse.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106953819-16336054552021-10-07t085303z_1992726786_16904191_rtrmadp_0_baseball-mlb-lad-stl.jpeg?v=1638428847",
+    "publishedAt": "2021-12-02T06:31:28Z",
+    "content": "Major League Baseball's collective bargaining agreement officially expired midnight Thursday, and team owners voted to lock out players after failing to reach a new deal.\r\nShortly after midnight, the… [+4489 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "J. Kim Murphy",
+    "title": "‘Nightmare Alley’ First Reactions Commend Guillermo del Toro Noir’s ‘Breathtaking’ Production Design, Bradley Cooper’s ‘Career-Best Performance’ - Variety",
+    "description": "The first reactions to Searchlight Pictures’ “Nightmare Alley” are thundering in following the film’s global premiere in New York City on Wednesday evening. Film critics and entertainment writers who attended the high-profile screening took to social media, p…",
+    "url": "https://variety.com/2021/film/news/nightmare-alley-first-reactions-guillermo-del-toro-bradley-cooper-1235123531/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2021/09/MCDNIAL_H4001.jpg?w=1024",
+    "publishedAt": "2021-12-02T05:50:00Z",
+    "content": "The first reactions to Searchlight Pictures’ “Nightmare Alley” are thundering in following the film’s global premiere in New York City on Wednesday evening. Film critics and entertainment writers who… [+5521 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "Hyung-jin Kim",
+    "title": "US defense chief slams China's drive for hypersonic weapons - Associated Press",
+    "description": "SEOUL, South Korea (AP) — U.S. Defense Secretary Lloyd Austin said Thursday that China’s pursuit of hypersonic weapons “increases tensions in the region” and vowed the U.S. would maintain its capability to deter potential threats posed by China.",
+    "url": "https://apnews.com/article/china-japan-seoul-south-korea-lloyd-austin-43cd78f6ba607300e11c7e5bc0962a3c",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/b3c2512d86f14025b5bc1f1c350db921/3000.jpeg",
+    "publishedAt": "2021-12-02T05:18:20Z",
+    "content": "SEOUL, South Korea (AP) U.S. Defense Secretary Lloyd Austin said Thursday that Chinas pursuit of hypersonic weapons increases tensions in the region and vowed the U.S. would maintain its capability t… [+3453 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": ", USA TODAY",
+    "title": "Carlos Santana has 'unscheduled heart procedure,' cancels Las Vegas shows for rest of year - USA TODAY",
+    "description": "Carlos Santana has successfully undergone a heart procedure and is canceling several Las Vegas shows planned for December.",
+    "url": "https://www.usatoday.com/story/entertainment/celebrities/2021/12/01/carlos-santana-cancels-december-las-vegas-shows-after-heart-procedure/8833253002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2021/09/03/USAT/9ed97b5d-3d0b-46b8-abc2-0049e7a483b6-GTY_1335515264.jpg?auto=webp&crop=7811,4394,x0,y300&format=pjpg&width=1200",
+    "publishedAt": "2021-12-02T05:13:48Z",
+    "content": "LOS ANGELES — Carlos Santana has successfully undergone a heart procedure and is canceling several Las Vegas shows planned for December.\r\nIn a video message released Wednesday on social media, Santan… [+2036 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Apple tells suppliers demand for iPhone 13 lineup has weakened - Bloomberg News - Reuters",
+    "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> has told its parts suppliers that demand for the iPhone 13 lineup has slowed, Bloomberg News <a href=\"https://www.bloomberg.com/news/articles/2021-12-02/apple-tells-supp…",
+    "url": "https://www.reuters.com/technology/apple-tells-suppliers-demand-iphone-13-lineup-has-weakened-bloomberg-news-2021-12-02/",
+    "urlToImage": "https://www.reuters.com/resizer/nJwnaVrafeUPlNi7hk5uZduKZSU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XGXKZ5ZXMJOHBEYSJOHMZ7NX7A.jpg",
+    "publishedAt": "2021-12-02T05:01:00Z",
+    "content": "Dec 1 (Reuters) - Apple Inc (AAPL.O) has told its parts suppliers that demand for the iPhone 13 lineup has slowed, Bloomberg News reported on Wednesday, citing people familiar with the matter, signal… [+2209 chars]"
+    }
+    ]
+    }
+
+    
